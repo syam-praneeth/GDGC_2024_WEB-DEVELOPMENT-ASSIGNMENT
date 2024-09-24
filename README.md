@@ -63,7 +63,7 @@ This is a simple e-commerce application that allows users to browse products, ad
 ## Screenshots
 ![Shopping cart view](shopping-cart.png)
 *Shopping cart*
-![Product View](prouct-cards.png)
+![Product View](product-cards.png)
 *Product Listing*
 ![Cart View](cart-info.png)
 *Shopping Cart*
