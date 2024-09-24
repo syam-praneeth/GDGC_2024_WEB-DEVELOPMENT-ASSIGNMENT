@@ -72,4 +72,4 @@ This is a simple e-commerce application that allows users to browse products, ad
 [Video Demo Link](your-video-link)
 
 ## GitHub Repository
-[GitHub Repository Link](https://github.com/yourusername/fake-store)
+[GitHub Repository Link](https://github.com/syam-praneeth/GDGC_2024_WEB-DEVELOPMENT-ASSIGNMENT.git)
