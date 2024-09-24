@@ -69,7 +69,7 @@ This is a simple e-commerce application that allows users to browse products, ad
 *Shopping Cart*
 
 ## Video Demo
-[Video Demo Link](your-video-link)
+[Video Demo Link](GDGC_VIDEO_DEMO.mp4)
 
 ## GitHub Repository
 [GitHub Repository Link](https://github.com/syam-praneeth/GDGC_2024_WEB-DEVELOPMENT-ASSIGNMENT.git)
