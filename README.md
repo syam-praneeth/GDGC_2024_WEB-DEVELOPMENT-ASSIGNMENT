@@ -61,10 +61,11 @@ This is a simple e-commerce application that allows users to browse products, ad
    ```
 
 ## Screenshots
-![Product View](image.png)
+![Shopping cart view](shopping-cart.png)
+*Shopping cart*
+![Product View](prouct-cards.png)
 *Product Listing*
-
-![Cart View](screenshot2.png)
+![Cart View](cart-info.png)
 *Shopping Cart*
 
 ## Video Demo
