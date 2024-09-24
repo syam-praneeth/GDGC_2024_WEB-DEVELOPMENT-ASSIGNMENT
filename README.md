@@ -1,6 +1,6 @@
 # GDGC_2024_WEB-DEVELOPMENT-ASSIGNMENT
 
-#Store E-Commerce Application
+# Store E-Commerce Application
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -61,7 +61,7 @@ This is a simple e-commerce application that allows users to browse products, ad
    ```
 
 ## Screenshots
-![Product View](.png)
+![Product View](image.png)
 *Product Listing*
 
 ![Cart View](screenshot2.png)
